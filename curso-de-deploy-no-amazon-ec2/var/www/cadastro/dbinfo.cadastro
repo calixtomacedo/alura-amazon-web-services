@@ -1,0 +1,8 @@
+<?php
+
+define('DB_SERVER', 'database-1.cp0syq7wcnuw.us-east-1.rds.amazonaws.com');
+define('DB_USERNAME', 'admin');
+define('DB_PASSWORD', 'awsadmindb');
+define('DB_DATABASE', 'cadastrodb');
+
+?>

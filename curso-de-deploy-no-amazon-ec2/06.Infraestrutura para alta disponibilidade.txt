@@ -1,1 +1,30 @@
 06.Infraestrutura para alta disponibilidade
+
+sudo systemctl stop mariadb
+sudo systemctl disable mariadb
+
+cd /var/www/
+ls
+mkdir cadastro
+
+cd casdastro
+
+nano dbinfo.cadastro
+
+[ec2-user@ip-172-31-17-46 cadastro]$ nano dbinfo.cadastro
+[ec2-user@ip-172-31-17-46 cadastro]$ cd ..
+[ec2-user@ip-172-31-17-46 www]$ ls
+cadastro  cgi-bin  html
+[ec2-user@ip-172-31-17-46 www]$ nano html/index.php
+[ec2-user@ip-172-31-17-46 www]$
+
+
+[ec2-user@ip-172-31-17-46 www]$ cd ..
+[ec2-user@ip-172-31-17-46 var]$ ls -l
+
+lista
+
+chown -R ec2-user:apache www/ 
+
+Depois de tudo pronto devamos parar a máquina para poder criar a imagem apartir do estado atual
+sudo shutdown -h now

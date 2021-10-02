@@ -1,0 +1,11 @@
+02.Gerenciando instâncias EC2
+
+Nome da Maquina
+primeira-ec2
+
+
+ID da instancia:
+i-063b04248748aeff4
+
+zona:
+us-east-1c

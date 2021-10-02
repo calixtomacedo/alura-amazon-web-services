@@ -1,0 +1,12 @@
+1 - Criação da conta na AWS
+
+2 - Free Tier
+750 horas por mês de instância t2.micro ou t3.micro Linux, RHEL ou SLES, dependendo da região
+
+
+Security group name: acesso-remoto
+
+IP: 191.183.201.237/32
+
+Key pair name:
+aws-calixto

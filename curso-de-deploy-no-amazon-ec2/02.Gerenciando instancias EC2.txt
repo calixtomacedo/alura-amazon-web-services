@@ -9,3 +9,8 @@ i-063b04248748aeff4
 
 zona:
 us-east-1c
+
+
+ssh -i "aws-calixto.pem" ec2-user@ec2-54-87-39-51.compute-1.amazonaws.com
+
+chmod 400 nome-da-chave-a-ser-alterado-perm

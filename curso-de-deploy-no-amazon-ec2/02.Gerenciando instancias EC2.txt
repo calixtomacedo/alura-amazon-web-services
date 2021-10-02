@@ -2,6 +2,7 @@
 
 Nome da Maquina
 primeira-ec2
+segunda-ec2
 
 
 ID da instancia:
@@ -13,4 +14,13 @@ us-east-1c
 
 ssh -i "aws-calixto.pem" ec2-user@ec2-54-87-39-51.compute-1.amazonaws.com
 
+
 chmod 400 nome-da-chave-a-ser-alterado-perm
+
+
+Preços de Discos no AWS
+EBS preços
+https://aws.amazon.com/pt/ebs/pricing/
+
+Calcular valores
+https://calculator.s3.amazonaws.com/index.html?lng=pt_BR

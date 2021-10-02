@@ -1,0 +1,20 @@
+05.Banco de Dados no Amazon RDS
+
+RDS - Database e tal
+
+database-1
+admin
+awsadmindb
+
+Endpoint & port
+Endpoint
+database-1.cp0syq7wcnuw.us-east-1.rds.amazonaws.com
+
+Port
+3306
+
+vpc-0a93f8072a06ad734
+
+ mysql -u admin -h database-1.cp0syq7wcnuw.us-east-1.rds.amazonaws.com -p
+
+create database cadastrodb;

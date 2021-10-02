@@ -1,0 +1,5 @@
+08.AWS Command Line Interface
+
+https://docs.aws.amazon.com/
+
+https://docs.aws.amazon.com/cli/latest/reference/ec2/

@@ -1,0 +1,5 @@
+01.Monitoracao com CloudWatch
+
+
+Eu não fiz na pratica por conta dos valores a ser pago
+
